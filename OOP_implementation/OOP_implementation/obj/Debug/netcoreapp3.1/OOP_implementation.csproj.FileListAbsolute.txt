@@ -1,0 +1,12 @@
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/bin/Debug/netcoreapp3.1/OOP_implementation.deps.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/bin/Debug/netcoreapp3.1/OOP_implementation.runtimeconfig.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/bin/Debug/netcoreapp3.1/OOP_implementation.runtimeconfig.dev.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/bin/Debug/netcoreapp3.1/OOP_implementation.dll
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/bin/Debug/netcoreapp3.1/OOP_implementation.pdb
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/obj/Debug/netcoreapp3.1/OOP_implementation.csprojAssemblyReference.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/obj/Debug/netcoreapp3.1/OOP_implementation.AssemblyInfoInputs.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/obj/Debug/netcoreapp3.1/OOP_implementation.AssemblyInfo.cs
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/obj/Debug/netcoreapp3.1/OOP_implementation.csproj.CoreCompileInputs.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/obj/Debug/netcoreapp3.1/OOP_implementation.dll
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/obj/Debug/netcoreapp3.1/OOP_implementation.pdb
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/OOP_example/OOP_implementation/OOP_implementation/obj/Debug/netcoreapp3.1/OOP_implementation.genruntimeconfig.cache
